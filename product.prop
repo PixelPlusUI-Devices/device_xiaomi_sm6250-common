@@ -16,3 +16,8 @@ persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 
 ro.pixelplusui.maintainer=Lopster_70
 org.pixelplusui.device=Xiaomi Redmi Note 9(S/Pro/ProMax)/Poco M2 Pro
+
+# Transcoding related property.
+debug.media.transcoding.codec_max_operating_rate_720P=240
+debug.media.transcoding.codec_max_operating_rate_1080P=120
+
