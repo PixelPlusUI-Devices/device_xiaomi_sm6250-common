@@ -14,8 +14,15 @@ ro.incremental.enable=1
 # IORap
 persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 
+
 ro.pixelplusui.maintainer=Lopster_70
-org.pixelplusui.device=Xiaomi Redmi Note 9(S/Pro/ProMax)/Poco M2 Pro
+org.pixelplusui.device=Miatoll
+
+# Telephony
+persist.vendor.ims.disableADBLogs=1
+persist.vendor.ims.disableDebugLogs=1
+persist.vendor.ims.disableIMSLogs=1
+persist.vendor.ims.disableQXDMLogs=1
 
 # Transcoding related property.
 debug.media.transcoding.codec_max_operating_rate_720P=240
