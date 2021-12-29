@@ -16,3 +16,7 @@ persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 
 # USAP
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+
+ro.pixelplusui.maintainer=Lopster_70
+org.pixelplusui.device=Xiaomi Redmi Note 9(S/Pro/ProMax)/Poco M2 Pro
